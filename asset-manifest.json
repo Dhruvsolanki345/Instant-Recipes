@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Instant-Recipes/static/css/main.087e5abb.chunk.css",
+    "main.js": "/Instant-Recipes/static/js/main.41c7fd6f.chunk.js",
+    "main.js.map": "/Instant-Recipes/static/js/main.41c7fd6f.chunk.js.map",
+    "runtime-main.js": "/Instant-Recipes/static/js/runtime-main.5525452e.js",
+    "runtime-main.js.map": "/Instant-Recipes/static/js/runtime-main.5525452e.js.map",
+    "static/js/2.83f05f7e.chunk.js": "/Instant-Recipes/static/js/2.83f05f7e.chunk.js",
+    "static/js/2.83f05f7e.chunk.js.map": "/Instant-Recipes/static/js/2.83f05f7e.chunk.js.map",
+    "index.html": "/Instant-Recipes/index.html",
+    "precache-manifest.d551509b19eeeb7517a316c2deb96112.js": "/Instant-Recipes/precache-manifest.d551509b19eeeb7517a316c2deb96112.js",
+    "service-worker.js": "/Instant-Recipes/service-worker.js",
+    "static/css/main.087e5abb.chunk.css.map": "/Instant-Recipes/static/css/main.087e5abb.chunk.css.map",
+    "static/js/2.83f05f7e.chunk.js.LICENSE.txt": "/Instant-Recipes/static/js/2.83f05f7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5525452e.js",
+    "static/js/2.83f05f7e.chunk.js",
+    "static/css/main.087e5abb.chunk.css",
+    "static/js/main.41c7fd6f.chunk.js"
+  ]
+}
